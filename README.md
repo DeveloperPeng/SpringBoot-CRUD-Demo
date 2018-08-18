@@ -31,6 +31,10 @@ create database SomeName
 
 The app will start running at <http://localhost:8080>.
 
+**5. Spring Security Login**
+
+Enter Username & password as "admin".
+
 ## Explore Rest APIs
 
 The app defines following CRUD APIs.
