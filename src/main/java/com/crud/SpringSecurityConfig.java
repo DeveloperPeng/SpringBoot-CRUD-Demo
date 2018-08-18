@@ -47,7 +47,7 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 	public void configureGlobal(AuthenticationManagerBuilder auth)
 			throws Exception {
 		LOGGER.info("In SpringSecurityConfig - configureGlobal method");
-		auth.inMemoryAuthentication().withUser("saras").password("saras")
+		auth.inMemoryAuthentication().withUser("admin").password("admin")
 				.roles("USER");
 	}
 
