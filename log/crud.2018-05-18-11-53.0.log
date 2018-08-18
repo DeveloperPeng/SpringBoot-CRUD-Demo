@@ -1,0 +1,14 @@
+208268 [http-nio-8080-exec-4] INFO  c.c.controller.HospitalController - In HospitalController - deleteHospital method
+208268 [http-nio-8080-exec-4] INFO  c.c.controller.HospitalController - In HospitalController - deleteHospital method
+208274 [http-nio-8080-exec-4] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - findHospById method
+208274 [http-nio-8080-exec-4] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - findHospById method
+209066 [http-nio-8080-exec-4] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - deleteHospital method
+209066 [http-nio-8080-exec-4] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - deleteHospital method
+209598 [http-nio-8080-exec-5] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+209598 [http-nio-8080-exec-5] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+209600 [http-nio-8080-exec-5] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+209600 [http-nio-8080-exec-5] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+221292 [http-nio-8080-exec-1] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+221292 [http-nio-8080-exec-1] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+221295 [http-nio-8080-exec-1] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+221295 [http-nio-8080-exec-1] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method

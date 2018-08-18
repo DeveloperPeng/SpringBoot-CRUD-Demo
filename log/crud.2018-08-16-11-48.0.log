@@ -1,0 +1,4 @@
+90752 [http-nio-8080-exec-3] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+90752 [http-nio-8080-exec-3] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+90758 [http-nio-8080-exec-3] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+90758 [http-nio-8080-exec-3] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method

@@ -1,0 +1,28 @@
+80998 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+81003 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+81035 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 32 ms
+102202 [http-nio-8080-exec-4] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+102202 [http-nio-8080-exec-4] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+102203 [http-nio-8080-exec-4] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+102203 [http-nio-8080-exec-4] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+102499 [http-nio-8080-exec-4] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+115055 [http-nio-8080-exec-1] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+115055 [http-nio-8080-exec-1] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+115056 [http-nio-8080-exec-1] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+115056 [http-nio-8080-exec-1] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+115802 [http-nio-8080-exec-2] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+115802 [http-nio-8080-exec-2] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+115802 [http-nio-8080-exec-2] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+115802 [http-nio-8080-exec-2] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+117002 [http-nio-8080-exec-3] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+117002 [http-nio-8080-exec-3] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+117004 [http-nio-8080-exec-3] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+117004 [http-nio-8080-exec-3] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+117889 [http-nio-8080-exec-6] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+117889 [http-nio-8080-exec-6] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+117890 [http-nio-8080-exec-6] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+117890 [http-nio-8080-exec-6] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+126705 [http-nio-8080-exec-7] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+126705 [http-nio-8080-exec-7] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+126707 [http-nio-8080-exec-7] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+126707 [http-nio-8080-exec-7] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method

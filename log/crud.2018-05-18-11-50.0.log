@@ -1,0 +1,8 @@
+115367 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+115392 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+115466 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 74 ms
+123089 [http-nio-8080-exec-2] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+123089 [http-nio-8080-exec-2] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+123091 [http-nio-8080-exec-2] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+123091 [http-nio-8080-exec-2] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+123427 [http-nio-8080-exec-2] INFO  o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory

@@ -1,0 +1,16 @@
+400854 [http-nio-8080-exec-6] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+400854 [http-nio-8080-exec-6] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+400862 [http-nio-8080-exec-6] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+400862 [http-nio-8080-exec-6] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+401614 [http-nio-8080-exec-3] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+401614 [http-nio-8080-exec-3] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+401615 [http-nio-8080-exec-3] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+401615 [http-nio-8080-exec-3] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+410657 [http-nio-8080-exec-10] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+410657 [http-nio-8080-exec-10] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+410658 [http-nio-8080-exec-10] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+410658 [http-nio-8080-exec-10] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+414535 [http-nio-8080-exec-7] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+414535 [http-nio-8080-exec-7] INFO  c.c.controller.HospitalController - In HospitalController - getAllHospitals method
+414537 [http-nio-8080-exec-7] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
+414537 [http-nio-8080-exec-7] INFO  c.c.s.impl.HospitalServiceImpl - In HospitalServiceImpl - getAllHospitals method
