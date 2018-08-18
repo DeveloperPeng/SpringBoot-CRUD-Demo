@@ -47,3 +47,15 @@ You can test them using postman or any other rest client.
 
 ## Screenshots
 
+HomePage    |  Route
+:-------------------------:|:-------------------------:
+![homepage](https://user-images.githubusercontent.com/34331677/44298414-5a976980-a300-11e8-9cd7-38aa2de97b13.png) | ![route](https://user-images.githubusercontent.com/34331677/44298415-5b300000-a300-11e8-9922-e70e93660443.png)
+
+Add    |  After Add
+:-------------------------:|:-------------------------:
+![add](https://user-images.githubusercontent.com/34331677/44298416-5bc89680-a300-11e8-9105-3c3cbd27a36f.png) | ![after add](https://user-images.githubusercontent.com/34331677/44298411-59663c80-a300-11e8-8e44-d6838fd06ffa.png)
+
+
+Edit    |  Delete
+:-------------------------:|:-------------------------:
+![edit](https://user-images.githubusercontent.com/34331677/44298413-59fed300-a300-11e8-8709-d78c0f8af23f.png) | ![delete](https://user-images.githubusercontent.com/34331677/44298412-59fed300-a300-11e8-8229-dab8219de7e5.png)
